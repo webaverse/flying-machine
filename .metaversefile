@@ -1,0 +1,19 @@
+{
+  "name": "flying-machine",
+  "start_url": "flying-machine.glb",
+  "components": [
+    {
+      "key": "sit",
+      "value": {
+        "subtype": "saddle",
+        "sitBone": "Spine",
+        "sitOffset": [0, -0.5, 0],
+        "walkAnimation": "",
+        "walkAnimationHoldTime": 1,
+        "walkAnimationSpeedFactor": 0.1,
+        "speed": 0.02,
+        "damping": 0.99
+      }
+    }
+    ]
+}
