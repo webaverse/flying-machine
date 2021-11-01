@@ -6,7 +6,7 @@
       "key": "sit",
       "value": {
         "subtype": "saddle",
-        "sitOffset": [0, -0.5, 0],
+        "sitOffset": [0, 0.55, 0],
         "walkAnimation": "",
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
