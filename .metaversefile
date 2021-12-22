@@ -6,12 +6,26 @@
       "key": "sit",
       "value": {
         "subtype": "saddle",
-        "sitOffset": [0, 0.55, 0],
+        "mountType": "flying",
+        "sitOffset": [0, 1, 0],
         "walkAnimation": "",
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
         "speed": 0.02,
         "damping": 0.99
+      }
+    },
+    {
+      "key": "propeller",
+      "value": {
+        "name": "Prop",
+        "maxSpeed": 0.5
+      }
+    },
+    {
+      "key": "engine",
+      "value": {
+        "throttle": 0
       }
     }
     ]
