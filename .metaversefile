@@ -1,5 +1,6 @@
 {
   "name": "flying-machine",
+  "description": "flying machine",
   "start_url": "flying-machine.glb",
   "components": [
     {
